@@ -1,4 +1,6 @@
-﻿using Autodesk.Revit.Attributes;
+﻿// Создайте приложение, которое выводит количество воздуховодов отдельно на 1 этаже и отдельно на 2 этаже.
+
+using Autodesk.Revit.Attributes;
 using Autodesk.Revit.DB;
 using Autodesk.Revit.DB.Mechanical;
 using Autodesk.Revit.UI;
